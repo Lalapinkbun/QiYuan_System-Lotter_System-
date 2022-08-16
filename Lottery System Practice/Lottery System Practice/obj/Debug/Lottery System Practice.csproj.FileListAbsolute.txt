@@ -1,0 +1,11 @@
+C:\Users\lalap\Desktop\Lala work\project\Lottery System Practice\Lottery System Practice\bin\Debug\Lottery System Practice.exe.config
+C:\Users\lalap\Desktop\Lala work\project\Lottery System Practice\Lottery System Practice\bin\Debug\Lottery System Practice.exe
+C:\Users\lalap\Desktop\Lala work\project\Lottery System Practice\Lottery System Practice\bin\Debug\Lottery System Practice.pdb
+C:\Users\lalap\Desktop\Lala work\project\Lottery System Practice\Lottery System Practice\obj\Debug\Lottery System Practice.csproj.AssemblyReference.cache
+C:\Users\lalap\Desktop\Lala work\project\Lottery System Practice\Lottery System Practice\obj\Debug\Lottery System Practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\lalap\Desktop\Lala work\project\Lottery System Practice\Lottery System Practice\obj\Debug\Lottery_System_Practice.Properties.Resources.resources
+C:\Users\lalap\Desktop\Lala work\project\Lottery System Practice\Lottery System Practice\obj\Debug\Lottery System Practice.csproj.GenerateResource.cache
+C:\Users\lalap\Desktop\Lala work\project\Lottery System Practice\Lottery System Practice\obj\Debug\Lottery System Practice.csproj.CoreCompileInputs.cache
+C:\Users\lalap\Desktop\Lala work\project\Lottery System Practice\Lottery System Practice\obj\Debug\Lottery System Practice.exe
+C:\Users\lalap\Desktop\Lala work\project\Lottery System Practice\Lottery System Practice\obj\Debug\Lottery System Practice.pdb
+C:\Users\lalap\Desktop\Lala work\project\Lottery System Practice\Lottery System Practice\obj\Debug\Lottery_System_Practice.The_Lottery_System.resources
